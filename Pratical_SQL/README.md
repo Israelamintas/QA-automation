@@ -7,10 +7,10 @@
 
 ## Progresso
 - [X] Day 0 - Two Minute Welcome
-- [ ] Day 1 - Freight Manager
-- [ ] Day 2 - Course Registrar
-- [ ] Day 3 - Guestbook API
-- [ ] Thank you
+- [x] Day 1 - Freight Manager
+- [x] Day 2 - Course Registrar
+- [x] Day 3 - Guestbook API
+- [x] Thank you
 
 ## Tecnologias
 Python, SQL, SQLite, MySQL, PostgreSQL, FastAPI, RAILWaY, virtual environments, SQL injection, prepared statements, dynamic SQL, virtual environments, SQL injection, prepared statements, dynamic SQL, virtual environments, SQL injection
