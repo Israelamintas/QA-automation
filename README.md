@@ -20,7 +20,7 @@ Currently expanding into test automation, aiming for a fully remote QA Automatio
 
 ## Tech Stack
 
-Python, Selenium WebDriver, Playwright, Pytest, Git
+Python, Selenium WebDriver, Playwright, Pytest, Git, SQL
 
 ## Notes
 
