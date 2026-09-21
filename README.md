@@ -8,9 +8,10 @@ a QA Automation role.
 
 Each folder represents a course or study track:
 
-- 'curso-selenium-webdriver/' — Web test automation with Selenium WebDriver and Python
-- 'curso-playwright-pytest/' — Web test automation with Playwright, Python, and Pytest
-
+- playwright-pytest/ — Web test automation with Playwright, Python, and Pytest
+- selenium-webdriver-python/ — Web test automation with Selenium WebDriver and Python
+- practical-sql-python/ — SQL practice with Python (SQLite, MySQL, PostgreSQL + FastAPI)
+- 
 ## Background
 
 QA Engineer with hands-on experience in functional, integration, and regression
@@ -19,7 +20,7 @@ Currently expanding into test automation, aiming for a fully remote QA Automatio
 
 ## Tech Stack
 
-Python, Selenium WebDriver, Playwright, Pytest, Git
+Python, Selenium WebDriver, Playwright, Pytest, Git, SQL
 
 ## Notes
 
