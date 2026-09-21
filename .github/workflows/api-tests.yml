@@ -59,12 +59,14 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run api tests
+        working-directory: Api_test
         run: |
           mkdir -p reports
           python3 -m pytest tests --html=reports/api-test-report.html --self-contained-html
 
       - name: Upload HTML test report
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: api-test-report
-          path: reports/
+          path: Api_test/reports/
