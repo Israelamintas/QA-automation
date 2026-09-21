@@ -8,10 +8,12 @@ def pytest_addoption(parser):
 
 
 def pytest_collection_modifyitems(config, items):
-    selected_tcids = config.getoption("--tcid")
-    if selected_tcids:
-        # --tcid given in cli: do not skip tcid tests
-        return
+    selected_tcids = config.getoption("--tcid")  # ou como estiver no teu código
+
+    if not selected_tcids:
+        return  # sem filtro: corre todos os testes
+
+    # ... resto da lógica de filtragem
     selected_items = []
     deselected_items = []
     for item in items:
