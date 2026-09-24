@@ -10,22 +10,22 @@
 
 ## Progresso
 
-- [ ] Welcome: Modern API Testing in the Era of AI
-- [ ] API Basics Every Tester Should Know
-- [ ] Environment Setup: Python, IDE, and AI Tools
-- [ ] Set Up the API Under Test and Test Cases
-- [ ] PyTest Crash Course for API Testing
-- [ ] Build the API Testing Framework
-- [ ] Build a Reusable API Client
-- [ ] Test Real Application Workflows
-- [ ] SQL and Database Verification for API Tests
-- [ ] Create Test Helpers and Reusable Test Data
-- [ ] Negative API Testing and Validation
-- [ ] Organize Tests with Test Cases, Markers, and Reports
-- [ ] Run API Tests in CI/CD with GitHub Actions
-- [ ] PyTest Parametrization and Data-Driven Tests
-- [ ] PyTest Fixtures for API Test Automation
-- [ ] Conclusion
+- [x] Welcome: Modern API Testing in the Era of AI
+- [x] API Basics Every Tester Should Know
+- [x] Environment Setup: Python, IDE, and AI Tools
+- [x] Set Up the API Under Test and Test Cases
+- [x] PyTest Crash Course for API Testing
+- [x] Build the API Testing Framework
+- [x] Build a Reusable API Client
+- [x] Test Real Application Workflows
+- [x] SQL and Database Verification for API Tests
+- [x] Create Test Helpers and Reusable Test Data
+- [x] Negative API Testing and Validation
+- [x] Organize Tests with Test Cases, Markers, and Reports
+- [x] Run API Tests in CI/CD with GitHub Actions
+- [x] PyTest Parametrization and Data-Driven Tests
+- [x] PyTest Fixtures for API Test Automation
+- [x] Conclusion
 
 ## Seção Especial
 
