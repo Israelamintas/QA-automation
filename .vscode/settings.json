@@ -1,6 +1,10 @@
 {
     "python.defaultInterpreterPath": "${workspaceFolder}\\.venv_novo\\Scripts\\python.exe",
     "python.languageServer": "Pylance",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/Project_Api_Sql_Sap/tests",
+        "${workspaceFolder}/Project_Api_Sql_Sap/backend"
+    ],
     "python.terminal.activateEnvironment": true,
     "python.testing.autoTestDiscoverOnSaveEnabled": false,
     "terminal.integrated.cwd": "${workspaceFolder}",

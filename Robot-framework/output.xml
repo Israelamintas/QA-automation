@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.5 (Python 3.13.15 on win32)" generated="2026-10-02T16:04:37.998463" rpa="false" schemaversion="5">
+<suite id="s1" name="testDemo1" source="C:\Users\Israel\Desktop\QA-automation\Robot-framework\tests\testDemo1.robot">
+<test id="s1-t1" name="Validate UnSuccesful login" line="7">
+<kw name="Open Mortgage Login Page">
+<kw name="Create Webdriver" owner="SeleniumLibrary">
+<msg time="2026-10-02T16:04:38.219584" level="INFO">Creating an instance of the Edge WebDriver.</msg>
+<arg>Edge</arg>
+<doc>Creates an instance of Selenium WebDriver.</doc>
+<status status="PASS" start="2026-10-02T16:04:38.200159" elapsed="3.828009"/>
+</kw>
+<kw name="Go To" owner="SeleniumLibrary">
+<msg time="2026-10-02T16:04:42.028833" level="INFO">Opening url 'https://rahulshettyacademy.com/loginpagePractise/'</msg>
+<arg>https://rahulshettyacademy.com/loginpagePractise/</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<status status="PASS" start="2026-10-02T16:04:42.028640" elapsed="2.248497"/>
+</kw>
+<status status="PASS" start="2026-10-02T16:04:38.199620" elapsed="6.077794"/>
+</kw>
+<status status="PASS" start="2026-10-02T16:04:38.198898" elapsed="6.079018"/>
+</test>
+<doc>To validate the login form</doc>
+<status status="PASS" start="2026-10-02T16:04:37.999991" elapsed="6.279186"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="testDemo1" id="s1" pass="1" fail="0" skip="0">testDemo1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
